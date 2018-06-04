@@ -37,7 +37,8 @@ class ProductTest extends \PHPUnit_Framework_TestCase
         return [
             [0, 0.0],
             [20, 1.1],
-            [100, 5.5]
+            [100, 5.5],
+            [1000, 55.0]
         ];
     }
 }
